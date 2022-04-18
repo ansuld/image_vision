@@ -1,0 +1,36 @@
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/009985_hand.jpg 63,302,138,369,0 222,304,294,362,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/009986_hand.jpg 183,219,305,356,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/009988_hand.jpg 166,193,208,243,0 242,264,294,325,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/009989_hand.jpg 75,197,134,256,0 160,205,226,270,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/009990_hand.jpg 138,343,188,400,0 169,262,232,334,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/009991_hand.jpg 225,207,300,286,0 300,201,387,289,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/009992_hand.jpg 135,305,190,360,0 215,322,268,363,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/009995_hand.jpg 212,311,259,369,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/009996_hand.jpg 245,214,342,291,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/009997_hand.jpg 203,166,250,223,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/009998_hand.jpg 106,197,166,247,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/009999_hand.jpg 85,239,172,336,0 115,225,201,303,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010000_hand.jpg 119,147,212,241,0 190,161,268,260,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010002_hand.jpg 191,223,235,278,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010003_hand.jpg 285,74,342,114,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010004_hand.jpg 186,322,278,385,0 339,137,426,228,0 344,72,443,141,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010005_hand.jpg 204,213,258,254,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010006_hand.jpg 71,424,134,493,0 251,436,287,493,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010007_hand.jpg 134,164,208,258,0 260,183,322,247,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010008_hand.jpg 14,228,145,367,0 341,219,430,330,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010009_hand.jpg 81,171,190,285,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010010_hand.jpg 216,288,272,349,0 244,263,296,325,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010011_hand.jpg 193,237,265,297,0 272,134,351,225,0 147,237,189,293,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010012_hand.jpg 86,411,161,492,0 248,401,315,465,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010013_hand.jpg 111,262,157,301,0 212,270,276,334,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010014_hand.jpg 75,329,116,391,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010015_hand.jpg 47,330,101,392,0 119,318,185,374,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010016_hand.jpg 106,279,139,338,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010017_hand.jpg 82,364,137,417,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010018_hand.jpg 138,269,195,330,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010019_hand.jpg 34,9,150,138,0 352,5,486,148,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010020_hand.jpg 200,286,261,342,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010021_hand.jpg 94,303,166,364,0 130,218,206,326,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010022_hand.jpg 177,217,225,268,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010023_hand.jpg 48,295,149,398,0 84,353,169,415,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010024_hand.jpg -14,194,137,348,0

@@ -1,0 +1,3 @@
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/009987_hand.jpg 153,117,209,174,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/009993_hand.jpg 289,373,327,428,0
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/010001_hand.jpg 385,267,463,317,0

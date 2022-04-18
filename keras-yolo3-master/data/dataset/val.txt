@@ -1,0 +1,1 @@
+D:/pythonstudy/jupyter-notebook/image_vision/VOCdevkit/VOC2007/JPEGImages/009994_hand.jpg 181,252,317,345,0 360,243,502,323,0
